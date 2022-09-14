@@ -5,5 +5,4 @@ which will allow you to take some of the elements onto the stack, and if there a
     template <typename T, typename Allocator>
     class vector;
     
-The second template parameter is an allocator that the class calls to allocate memory and create objects. The solution was taken from .
-[Andrei Alexandrescu](https://www.youtube.com/watch?v=LIb3L4vKZ7U).
+The second template parameter is an allocator that the class calls to allocate memory and create objects. The solution was taken from [Andrei Alexandrescu](https://www.youtube.com/watch?v=LIb3L4vKZ7U).
